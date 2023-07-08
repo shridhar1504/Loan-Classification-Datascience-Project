@@ -21,3 +21,7 @@ The accuracy of the loan classification model can vary depending on the dataset 
  * Loan - The dataset has loan id, account id, date, amount, duartion, payment & status.
  * Order - The dataset has order id, account id, bank to, account to, amount, k_symbol.
  * Transaction Data - The dataset has transaction id, account id, date, type, operation, amount, balance, k_symbol, bank & account.
+## Findings :
+The most important factors in determining the status of the loan by the applicant's data such as debt to income ratio, length of credit history, whether they have bankruptcies or foreclosure on their record. The accuracy of loan classification models can be improved by using more data and by using more sophisticated machine learning algorithms.
+## Insights :
+Loan classification models can be used to improve the efficiency of loan lending by helping lenders to make more informed decisions about whether to approve or deny loan applications. Loan classification models can also be used to identify borrowers who are at a higher risk of default, which can help lenders to take steps to mitigate their risk.
