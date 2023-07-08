@@ -12,6 +12,7 @@ With the help of Structured Query Language (SQL), transforming the data with the
 Machine Learning can be used to build models that can predict the loan status such as A, B, C & D (i.e., Approved, Pending, Denied, Closed). These models are trained on historical data of loan applications and using this data which learns with the relationship between factors that impacts on status of the loan. Once a model is trained, it can be used to predict the loan status of the future applicants.
 ## Observations :
 The accuracy of the loan classification model can vary depending on the dataset that is used to train the model. The Bank had given applicant's details in individual CSV Files. For the predictive modeling,by using SQL; the datasets should be joined or merged using various statements which can have all the necessary column to form the final data in a csv format. The individual datasets and details of the datasets are as follows :
+
     * Account - The dataset has account id, district id, frequency & date.
     * Card - The dataset has card id, disposition id, type & issued.
     * Client - The dataset has client id , birth number alomg with district id.
