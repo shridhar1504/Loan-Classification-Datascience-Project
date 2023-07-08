@@ -3,7 +3,7 @@ This project uses machine learning algorithms to predict the classification of l
 ## Problem Statement :
 Loan Lenders need to be able to accurately predict whether the loan will be repaid inorder to minimize the risk. By predicting the loan status of every individual, the lenders can able to follow the results of it to find out the differences among the behaviourial pattern of the customer. This is challenging problem because there are many factors that can influence the loan status.
 ## Solution Approach :
-With the help of Structured Query Language (SQL), transforming the data with the bunch of datasets which has different informations on Customer's behaviourial pattern.  
+With the help of Structured Query Language (SQL), transforming the data with the bunch of datasets which has different informations on Customer's behaviourial pattern. By the following structural mapping, joining the datasets to get the final data.  
 
 
 `image` ![Dataset SQL Formatting](https://github.com/shridhar1504/Loan-Classification-Datascience-Project/assets/113985416/984a2561-6d2f-4656-bfe2-e47f970c175d)
